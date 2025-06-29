@@ -1,0 +1,7 @@
+# Ignore everything except JSON and Markdown
+*.log
+node_modules/
+.env
+.vscode/
+*.zip
+.DS_Store
